@@ -77,8 +77,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/DataDog/zstd v1.4.1 h1:3oxKN3wbHibqx897utPC2LTQU4J+IHWWJO+glkAkpFM=
 github.com/DataDog/zstd v1.4.1/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
-github.com/EOS-Nation/firehose v0.1.1-0.20210311170624-96427873820b h1:oFWI6zum/ka2owDm9IzckTEAiPfXaMiv/aa/nGWImr8=
-github.com/EOS-Nation/firehose v0.1.1-0.20210311170624-96427873820b/go.mod h1:M7U7vi416H/4oqP0ZXQ1a0b5QHdn+hPxSkNBHFt0rlU=
+github.com/EOS-Nation/firehose v0.1.1-0.20210312100529-0c3139d3903f h1:oX/biQ0ANdgVonvS5l6lyOC9Esa/dqZlDWYg/aAMhfw=
+github.com/EOS-Nation/firehose v0.1.1-0.20210312100529-0c3139d3903f/go.mod h1:M7U7vi416H/4oqP0ZXQ1a0b5QHdn+hPxSkNBHFt0rlU=
 github.com/GeertJohan/go.incremental v1.0.0/go.mod h1:6fAjUhbVuX1KcMD3c8TEgVUqmo4seqhv0i0kdATSkM0=
 github.com/GeertJohan/go.rice v1.0.0 h1:KkI6O9uMaQU3VEKaj01ulavtF7o1fWT7+pk/4voiMLQ=
 github.com/GeertJohan/go.rice v1.0.0/go.mod h1:eH6gbSOAUv07dQuZVnBmoDP8mgsM1rtixis4Tib9if0=
