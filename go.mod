@@ -75,7 +75,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/teris-io/shortid v0.0.0-20201117134242-e59966efd125
 	github.com/thedevsaddam/govalidator v1.9.9
-	github.com/tidwall/gjson v1.6.7
+	github.com/tidwall/gjson v1.6.8
 	github.com/tidwall/sjson v1.0.4
 	github.com/urfave/negroni v1.0.0 // indirect
 	go.opencensus.io v0.22.5
@@ -108,4 +108,4 @@ replace github.com/dfuse-io/dauth => github.com/eosnationftw/dauth v0.0.0-202103
 // compatibility with 1.14 which is our minimum version. So we enforce a strict version to v1.14.1 now.
 replace github.com/mitchellh/go-testing-interface => github.com/mitchellh/go-testing-interface v1.14.1
 
-replace github.com/dfuse-io/firehose => github.com/EOS-Nation/firehose 3d5e5a21e4ad999fc177a30db50ba631447666ab
+replace github.com/dfuse-io/firehose => github.com/EOS-Nation/firehose v0.1.1-0.20210312112010-b1707857a58b
