@@ -108,4 +108,4 @@ replace github.com/dfuse-io/dauth => github.com/eosnationftw/dauth v0.0.0-202103
 // compatibility with 1.14 which is our minimum version. So we enforce a strict version to v1.14.1 now.
 replace github.com/mitchellh/go-testing-interface => github.com/mitchellh/go-testing-interface v1.14.1
 
-replace github.com/dfuse-io/firehose => github.com/EOS-Nation/firehose v0.1.1-0.20210312112010-b1707857a58b
+replace github.com/dfuse-io/firehose => github.com/EOS-Nation/firehose v0.1.1-0.20210312113552-4db903dd7b07
