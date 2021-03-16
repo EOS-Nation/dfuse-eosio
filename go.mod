@@ -102,10 +102,10 @@ replace github.com/census-instrumentation/opencensus-proto v0.1.0-0.201812141439
 
 replace github.com/ShinyTrinkets/overseer => github.com/maoueh/overseer v0.2.1-0.20191024193921-39856397cf3f
 
-replace github.com/dfuse-io/dauth => github.com/eosnationftw/dauth v0.0.0-20210309162409-e36ca9ed5287
+replace github.com/dfuse-io/dauth => github.com/eosnationftw/dauth v0.0.0-20210316123228-0097a05cb1f6
 
 // The go-testing-interface version matches the Golang version to compile against, in this case, we want
 // compatibility with 1.14 which is our minimum version. So we enforce a strict version to v1.14.1 now.
 replace github.com/mitchellh/go-testing-interface => github.com/mitchellh/go-testing-interface v1.14.1
 
-replace github.com/dfuse-io/firehose => github.com/EOS-Nation/firehose v0.1.1-0.20210312135520-81b480244ef4
+replace github.com/dfuse-io/firehose => github.com/EOS-Nation/firehose v0.1.1-0.20210316123522-d1510ee9a39c
